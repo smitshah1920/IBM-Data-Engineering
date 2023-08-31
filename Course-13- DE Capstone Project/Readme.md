@@ -1,6 +1,6 @@
 # Data Engineering Capstone Project
 
-#Environment:
+# Environment:
 This document introduces you to the data platform architecture of an ecommerce company named SoftCart.
 SoftCart uses a hybrid architecture, with some of its databases on premises and some on cloud.
 
