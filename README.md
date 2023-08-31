@@ -1,4 +1,4 @@
-# IBM-Data-Engineering
+[# IBM-Data-Engineering Professional Certificate]([url](https://www.coursera.org/professional-certificates/ibm-data-engineer))
 
 The IBM Data Engineering Professional Certificate is a comprehensive program designed to equip aspirants with the skills and knowledge needed to excel in the field of data engineering. This certificate program, It covers a wide range of topics related to data management, data processing, and data transformation. Participant gains practical experience in using various tools, technologies, and methodologies commonly used in the data engineering industry.
 
@@ -13,3 +13,32 @@ By obtaining the IBM Data Engineering Professional Certificate, learners validat
 Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Python, SQL, Relational Databases, NoSQL Databases, Apache Spark, building a data pipeline, managing a database and working with data in a data warehouse.
 
 At the end, you will complete a Capstone Project that applies what you have learned to a real-world inspired scenario that requires you to design, deploy and manage an end-to-end data engineering platform consisting of various Relational (Transactional Data Warehousing), NoSQL & Big Data repositories as well as data piplelines to connect them.
+
+# There are 13 courses throughout the specialization and a capstone project at the end:
+
+1.Introduction to Data Engineer
+2.Python for Data Science, AI & Development
+3.Python Project for Data Engineer
+4.Introduction to Relational Databases (RDBMS)
+5.Databases and SQL for Data Science with Python
+6.Hands-on Introduction to Linux Commands and Shell Scripting
+7.Relational Database Administration (DBA)
+8.ETL and Data Pipelines with Shell, Airflow and Kafka
+9.Getting Started with Data Warehousing and BI Analytics
+10.Introduction to NoSQL Databases
+11.Introduction to Big Data with Spark and Hadoop
+12.Data Engineering and Machine Learning using Spark
+13.Data Engineering Capstone Project
+
+# Tools and Technologies
+OLTP database - MySQL
+NoSql database - MongoDB
+Production Data warehouse – DB2 on Cloud
+Staging - Data warehouse – PostgreSQL
+Big data platform - Hadoop
+Big data analytics platform – Spark
+Business Intelligence Dashboard - IBM Cognos Analytics
+Data Pipelines - Apache Airflow
+
+![image](https://github.com/smitshah1920/IBM-Data-Engineering/assets/116938231/de69d4f0-4b72-49eb-8eef-e8e09b9fa762)
+
