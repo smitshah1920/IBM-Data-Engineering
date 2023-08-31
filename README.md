@@ -16,29 +16,29 @@ At the end, you will complete a Capstone Project that applies what you have lear
 
 # There are 13 courses throughout the specialization and a capstone project at the end:
 
-1.Introduction to Data Engineer
-2.Python for Data Science, AI & Development
-3.Python Project for Data Engineer
-4.Introduction to Relational Databases (RDBMS)
-5.Databases and SQL for Data Science with Python
-6.Hands-on Introduction to Linux Commands and Shell Scripting
-7.Relational Database Administration (DBA)
-8.ETL and Data Pipelines with Shell, Airflow and Kafka
-9.Getting Started with Data Warehousing and BI Analytics
-10.Introduction to NoSQL Databases
-11.Introduction to Big Data with Spark and Hadoop
-12.Data Engineering and Machine Learning using Spark
-13.Data Engineering Capstone Project
+1.Introduction to Data Engineer <br>
+2.Python for Data Science, AI & Development <br>
+3.Python Project for Data Engineer <br>
+4.Introduction to Relational Databases (RDBMS) <br>
+5.Databases and SQL for Data Science with Python <br>
+6.Hands-on Introduction to Linux Commands and Shell Scripting <br>
+7.Relational Database Administration (DBA) <br>
+8.ETL and Data Pipelines with Shell, Airflow and Kafka <br>
+9.Getting Started with Data Warehousing and BI Analytics <br>
+10.Introduction to NoSQL Databases <br>
+11.Introduction to Big Data with Spark and Hadoop <br>
+12.Data Engineering and Machine Learning using Spark <br>
+13.Data Engineering Capstone Project <br>
 
 # Tools and Technologies
-OLTP database - MySQL
-NoSql database - MongoDB
-Production Data warehouse – DB2 on Cloud
-Staging - Data warehouse – PostgreSQL
-Big data platform - Hadoop
-Big data analytics platform – Spark
-Business Intelligence Dashboard - IBM Cognos Analytics
-Data Pipelines - Apache Airflow
+OLTP database - MySQL <br>
+NoSql database - MongoDB <br>
+Production Data warehouse – DB2 on Cloud <br>
+Staging - Data warehouse – PostgreSQL <br>
+Big data platform - Hadoop <br>
+Big data analytics platform – Spark <br>
+Business Intelligence Dashboard - IBM Cognos Analytics <br>
+Data Pipelines - Apache Airflow <br>
 
 ![image](https://github.com/smitshah1920/IBM-Data-Engineering/assets/116938231/de69d4f0-4b72-49eb-8eef-e8e09b9fa762)
 
