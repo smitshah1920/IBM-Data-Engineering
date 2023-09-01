@@ -1,4 +1,6 @@
-# [IBM-Data-Engineering Professional Certificate]([url](https://www.coursera.org/professional-certificates/ibm-data-engineer))
+# Description
+
+[IBM-Data-Engineering Professional Certificate]([url](https://www.coursera.org/professional-certificates/ibm-data-engineer))
 
 The IBM Data Engineering Professional Certificate is a comprehensive program designed to equip aspirants with the skills and knowledge needed to excel in the field of data engineering. This certificate program, It covers a wide range of topics related to data management, data processing, and data transformation. Participant gains practical experience in using various tools, technologies, and methodologies commonly used in the data engineering industry.
 
@@ -16,19 +18,19 @@ At the end, you will complete a Capstone Project that applies what you have lear
 
 ## There are 13 courses throughout the specialization and a capstone project at the end:
 
-1.Introduction to Data Engineer <br>
-2.Python for Data Science, AI & Development <br>
-3.Python Project for Data Engineer <br>
-4.Introduction to Relational Databases (RDBMS) <br>
-5.Databases and SQL for Data Science with Python <br>
-6.Hands-on Introduction to Linux Commands and Shell Scripting <br>
-7.Relational Database Administration (DBA) <br>
-8.ETL and Data Pipelines with Shell, Airflow and Kafka <br>
-9.Getting Started with Data Warehousing and BI Analytics <br>
-10.Introduction to NoSQL Databases <br>
-11.Introduction to Big Data with Spark and Hadoop <br>
-12.Data Engineering and Machine Learning using Spark <br>
-13.Data Engineering Capstone Project <br>
+01. Introduction to Data Engineer <br>
+02. Python for Data Science, AI & Development <br>
+03. Python Project for Data Engineer <br>
+04. Introduction to Relational Databases (RDBMS) <br>
+05. Databases and SQL for Data Science with Python <br>
+06. Hands-on Introduction to Linux Commands and Shell Scripting <br>
+07. Relational Database Administration (DBA) <br>
+08. ETL and Data Pipelines with Shell, Airflow and Kafka <br>
+09. Getting Started with Data Warehousing and BI Analytics <br>
+10. Introduction to NoSQL Databases <br>
+11. Introduction to Big Data with Spark and Hadoop <br>
+12. Data Engineering and Machine Learning using Spark <br>
+13. Data Engineering Capstone Project <br>
 
 ## Tools and Technologies
 OLTP database - MySQL <br>
