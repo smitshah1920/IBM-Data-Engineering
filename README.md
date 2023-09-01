@@ -1,4 +1,4 @@
-[# IBM-Data-Engineering Professional Certificate]([url](https://www.coursera.org/professional-certificates/ibm-data-engineer))
+# [IBM-Data-Engineering Professional Certificate]([url](https://www.coursera.org/professional-certificates/ibm-data-engineer))
 
 The IBM Data Engineering Professional Certificate is a comprehensive program designed to equip aspirants with the skills and knowledge needed to excel in the field of data engineering. This certificate program, It covers a wide range of topics related to data management, data processing, and data transformation. Participant gains practical experience in using various tools, technologies, and methodologies commonly used in the data engineering industry.
 
@@ -8,13 +8,13 @@ Throughout the program, participants work on projects that mirror real data engi
 
 By obtaining the IBM Data Engineering Professional Certificate, learners validate their expertise in the domain of data engineering and enhance their prospects for career advancement or transition into roles that involve managing and optimizing data pipelines, ensuring data quality, and contributing to data-driven decision-making within organizations.
 
-# Applied Learning Project
+## Applied Learning Project
 
 Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Python, SQL, Relational Databases, NoSQL Databases, Apache Spark, building a data pipeline, managing a database and working with data in a data warehouse.
 
 At the end, you will complete a Capstone Project that applies what you have learned to a real-world inspired scenario that requires you to design, deploy and manage an end-to-end data engineering platform consisting of various Relational (Transactional Data Warehousing), NoSQL & Big Data repositories as well as data piplelines to connect them.
 
-# There are 13 courses throughout the specialization and a capstone project at the end:
+## There are 13 courses throughout the specialization and a capstone project at the end:
 
 1.Introduction to Data Engineer <br>
 2.Python for Data Science, AI & Development <br>
@@ -30,7 +30,7 @@ At the end, you will complete a Capstone Project that applies what you have lear
 12.Data Engineering and Machine Learning using Spark <br>
 13.Data Engineering Capstone Project <br>
 
-# Tools and Technologies
+## Tools and Technologies
 OLTP database - MySQL <br>
 NoSql database - MongoDB <br>
 Production Data warehouse – DB2 on Cloud <br>
